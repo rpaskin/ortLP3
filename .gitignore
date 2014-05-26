@@ -1,4 +1,5 @@
 *.rbc
+<<<<<<< HEAD
 capybara-*.html
 .rspec
 /log
@@ -29,3 +30,23 @@ config/secrets.yml
 D
 D
 .DS_store
+=======
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+.rvmrc
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+.project
+config/initializers/secret_token.rb
+>>>>>>> 42fd0ba38a254afbb0cef3bda465f174114385de
